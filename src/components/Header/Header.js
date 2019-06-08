@@ -5,7 +5,7 @@ export default function HeaderComponent() {
   return (
     <div className="header"> 
       <div className="nav">
-        (헤더)
+      <h1>Mate test</h1>
       </div>
     </div>
   );

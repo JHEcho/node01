@@ -1,3 +1,10 @@
-.data-01 {
+.grid-default-style {
+    background: #00ffd4;
+    color: white;
+    // Column Styles
+    .col-6 {
+      border-right: 2px solid #fc1472;
+    }
     
-}
+  }
+  

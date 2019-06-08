@@ -17,7 +17,9 @@ class Data01Component extends Component {
     return (
       <div className="data-01">
         <InfoBanner />
-        <h1>Data 01</h1>
+      
+        <h1>data-01</h1>
+
         {/* <Heading1 /> */}
         <Span />
       </div>
