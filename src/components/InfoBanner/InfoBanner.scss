@@ -2,16 +2,43 @@
 
 
 .info-banner {
-    background: #00ffd4;
-    color: white;
+   
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.grid-default-style{
+    border-radius: 30px;
+    text-align: center;
+    padding: 20px;
 }
 .col-6 {
-    border-right: 2px solid #fc1472;    
-  }
-.fon{
-    font-size: 30px
+    
+    width: 100px;
+    height: 90px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+
 }
-.fon1{
-    border-bottom: 100px
+.image01{
+    background-image: url('../../../assets/images/box-color-03.png');
+    
 }
- 
+.image02{
+    background-image: url('../../../assets/images/box-color-04.png');
+    
+
+}
+.col-6 .fon{
+    height: 30px;
+    margin-top: 20px;
+    color: azure;
+}
+.col-6 p{
+    margin-top:10px;
+    font-size:20px;
+    color: #fff;
+}
